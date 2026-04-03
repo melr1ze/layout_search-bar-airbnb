@@ -22,7 +22,7 @@ body {
 .search-form--big {
   box-shadow: 0 1px 8px 0 rgba(61, 78, 97, 0.1);
   font-family: inherit;
-  margin-bottom: 20px;
+  margin-top: 20px;
   display: flex;
   align-items: center;
   line-height: 1;
@@ -82,6 +82,7 @@ body {
   border-radius: 4px;
   height: 42px;
   font-size: 14px;
+  margin-top: 20px;
 
   padding: 0 20px 0 13px;
 
